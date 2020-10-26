@@ -1,2 +1,2 @@
-# sacramento_covid_outreach
-This will be the website for covid19 outreach in Sacramento
+# Sacramento Covid19 Outreach Initiative
+Making our community a better place with one mask and educational session at a time
