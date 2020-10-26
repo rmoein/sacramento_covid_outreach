@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sacramento Covid19 Outreach
 
 You can use the [editor on GitHub](https://github.com/rmoein/sacramento_covid_outreach/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
